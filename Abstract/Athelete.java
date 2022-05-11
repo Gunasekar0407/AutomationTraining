@@ -6,7 +6,7 @@ abstract class Athelete {
 	}
 
 	public void sleep() {
-		System.out.println("I sleep 8hours a day");
+		System.out.println("I sleep 9 hours a day");
 	}
 
 	abstract void event();
