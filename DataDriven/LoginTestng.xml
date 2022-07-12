@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Login Suite">
+    <test name="Login to Applocation">
+        <parameter name="userName" value="34567890"></parameter>
+        <parameter name="Password" value="Atmecs@123"></parameter>
+        <classes>
+            <class name="DataDriven.LoginWithSingleClass"/>
+        </classes>
+    </test>
+</suite>
