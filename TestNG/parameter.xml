@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing TestNGPackage" verbose="2">
+    <test name="SuiteRunTest">
+        <parameter name="Name" value="Guna"></parameter>
+        <classes>
+            <class name="TestNG.ParameterizationExample"></class>
+        </classes>
+    </test>
+</suite>
+
